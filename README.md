@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm AFAKIR 👋<br><br>I'm a Computer Science student at **NJUPT** (Nanjing University of Posts and Telecommunications), focused on **AI automation, workflow engineering, and software development**.<br><br>- 🔭 Building AI-powered tools and automation workflows<br>- 🛠️ Working across **Java, C++, Python,SQL, assembly, and web technologies**<br>- 🌱 Currently learning more about LLM integration and mobile development<br>- 📫 Reach me on GitHub: [@af.fakir](https://github.com/af.fakir)
+## Hi, I'm AFAKIR 👋<br><br>I'm a Computer Science student at **NJUPT** (Nanjing University of Posts and Telecommunications), focused on **AI automation, workflow engineering, and software development**.<br><br>- 🔭 Building AI-powered tools and automation workflows<br>- 🛠️ Working across **Java, C++, Python,SQL, assembly, and web technologies**<br>- 🌱 Currently learning more about LLM integration and mobile development<br>- 📫 Reach me on GitHub: [@RoXaAF](https://github.com/RoXaAF)
 
 
 # 💻 Tech Stack:
